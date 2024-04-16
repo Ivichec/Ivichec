@@ -89,13 +89,37 @@
 
 <div>
 
-  ## 📊 &nbsp;My activities
-  <a href="https://github.com/Ivichec">
-    <img width=450 height=170 align="center" alt="Ivichec" src="https://github-readme-stats.vercel.app/api?username=Ivichec&theme=midnight-purple&show_icons=true&bg_color=0D1117&hide_border=true&count_private=true" />
-  </a>
-  <a href="https://github.com/Ivichec">
-    <img align="center" alt="Ivichec" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ivichec&theme=midnight-purple&layout=compact&bg_color=0D1117&hide_border=true&count_private=true" />
-  </a>
+<h2> Github Stats (Expand to View) <img src = "https://i.pinimg.com/originals/65/c4/f4/65c4f452571be1261e9c623f7da488ac.gif" width = 35px> </h2>
+
+<details> 
+  <summary><b>💻 GitHub Profile Stats</b></summary>
+  <br/>
+  <p align="center">
+    <a href="https://github.com/rizsyad/github-readme-stats"><img alt="Rizsyad Github Stats" src="https://github-readme-stats.vercel.app/api?username=rizsyad&show_icons=true&count_private=true&theme=algolia" height="192px"/></a>
+<br/>
+  &nbsp;
+	  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=rizsyad&show_icons=true&locale=en&layout=compact&theme=algolia" alt="Rizsyad" height="192px"/>
+  <br/>
+  </p>
+</details>
+
+
+<details>
+  <summary><b>Github Tropy Stats</b></summary>
+  <br/>
+   <a href="https://github.com/rizsyad"> <img src="https://github-profile-trophy.vercel.app/?username=Rizsyad&theme=algolia&rank=S,AAA,AA,B,C,A&margin-w=10" alt="Rizsyad :: Tropy Stats" /></a>
+  <br/>
+</details>
+
+
+<details>
+  <summary><b>Visitor Count</b></summary>
+  <br/>
+   <a href="https://github.com/Rizsyad">
+        <img src="https://profile-counter.glitch.me/{Rizsyad}/count.svg" alt="Rizsyad :: Visitor's Count" />
+    </a>
+  <br/>
+</details>
 </div>
 
 <div>
