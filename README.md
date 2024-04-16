@@ -4,9 +4,8 @@
 <br>
 
 </div>
-
 <div align="center">
-  <img src="https://github.com/Ivichec/Ivichec/assets/124150320/62131af4-c2e4-4fa3-b408-1546118583e6" alt="Card header" width="480" height="380"/>
+  <img src="https://github.com/Ivichec/Ivichec/assets/124150320/bc6fae54-866e-48f1-9b99-f84d4e8c1421" alt="Card header" width="480" height="380"/>
 </div>
 
 <p align="center">
