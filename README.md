@@ -6,7 +6,7 @@
 </div>
 
 <div align="center">
-  <img src="https://github.com/Ivichec/Ivichec/assets/124150320/b2d0c361-ff9e-4cdf-b84d-47999d4fead8" alt="Card header"/>
+  <img src="https://github.com/Ivichec/Ivichec/assets/124150320/62131af4-c2e4-4fa3-b408-1546118583e6" alt="Card header"/>
 </div>
 
 <p align="center">
