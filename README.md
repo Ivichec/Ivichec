@@ -95,10 +95,10 @@
   <summary><b>💻 GitHub Profile Stats</b></summary>
   <br/>
   <p align="center">
-    <a href="https://github.com/rizsyad/github-readme-stats"><img alt="Rizsyad Github Stats" src="https://github-readme-stats.vercel.app/api?username=rizsyad&show_icons=true&count_private=true&theme=algolia" height="192px"/></a>
+    <a href="https://github.com/Ivichec/github-readme-stats"><img alt="Ivichec Github Stats" src="https://github-readme-stats.vercel.app/api?username=Ivichec&show_icons=true&count_private=true&theme=algolia" height="192px"/></a>
 <br/>
   &nbsp;
-	  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=rizsyad&show_icons=true&locale=en&layout=compact&theme=algolia" alt="Rizsyad" height="192px"/>
+	  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Ivichec&show_icons=true&locale=en&layout=compact&theme=algolia" alt="Ivichec" height="192px"/>
   <br/>
   </p>
 </details>
@@ -107,7 +107,7 @@
 <details>
   <summary><b>Github Tropy Stats</b></summary>
   <br/>
-   <a href="https://github.com/rizsyad"> <img src="https://github-profile-trophy.vercel.app/?username=Rizsyad&theme=algolia&rank=S,AAA,AA,B,C,A&margin-w=10" alt="Rizsyad :: Tropy Stats" /></a>
+   <a href="https://github.com/Ivichec"> <img src="https://github-profile-trophy.vercel.app/?username=Ivichec&theme=algolia&rank=S,AAA,AA,B,C,A&margin-w=10" alt="Rizsyad :: Tropy Stats" /></a>
   <br/>
 </details>
 
@@ -115,8 +115,8 @@
 <details>
   <summary><b>Visitor Count</b></summary>
   <br/>
-   <a href="https://github.com/Rizsyad">
-        <img src="https://profile-counter.glitch.me/{Rizsyad}/count.svg" alt="Rizsyad :: Visitor's Count" />
+   <a href="https://github.com/Ivichec">
+        <img src="https://profile-counter.glitch.me/{Ivichec}/count.svg" alt="Ivichec :: Visitor's Count" />
     </a>
   <br/>
 </details>
@@ -129,9 +129,6 @@
   <!-- [![Portfolio Badge](https://img.shields.io/badge/-Portifolio-blueviolet?style=flat-square&logo=Portfolio&logoColor=white)](https://pepyn0.github.io/)&nbsp; -->
   [![LinkedIn Badge](https://img.shields.io/badge/-Iv%C3%A1n%20Checa-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ivanchecagarcia/)](https://www.linkedin.com/in/ivanchecagarcia/)&nbsp;
   [![Gmail Badge](https://img.shields.io/badge/-ivanchecag2004@gmail.com-red?style=flat-square&logo=Gmail&logoColor=white)](mailto:ivanchecag2004@gmail.com)&nbsp;
-  [![Instagram Badge](https://img.shields.io/badge/-Pepyn0__-EB2A08?style=flat-square&logo=Instagram&logoColor=white)](https://www.instagram.com/pepyn0_/)&nbsp;
-  [![Twitter Badge](https://img.shields.io/badge/-Pepyn0-blue?style=flat-square&logo=Twitter&logoColor=white)](https://twitter.com/Pepyn0)&nbsp;
-  [![AniList Badge](https://img.shields.io/badge/-Pepyn0-C063FF?style=flat-square&logo=Anilist&logoColor=white)](https://anilist.co/user/Pepyn0/)
 
 </div>
 
