@@ -5,9 +5,8 @@
 
 </div>
 
-
 <div align="center">
-  <img src="https://raw.githubusercontent.com/gist/Pepyn0/99b1635ffc5c8e325bdcdd93115f09f9/raw/22c367b789fc8fabb9608e44133eddb3c3c432ce/github-header-image.svg" alt="Card header"/>
+  <img src="https://github.com/Ivichec/Ivichec/assets/124150320/62131af4-c2e4-4fa3-b408-1546118583e6" alt="Card header"/>
 </div>
 
 <p align="center">
