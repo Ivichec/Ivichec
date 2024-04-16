@@ -143,9 +143,3 @@
 </div>
 
 <!-- ## 📚 &nbsp;My Projects -->
-
-
-------
-Credits: [Pepyn0](https://github.com/Pepyn0)
-
-Last Edited on: 26/05/2022
