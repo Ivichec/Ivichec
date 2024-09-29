@@ -5,7 +5,6 @@
 
 </div>
 <div align="center">
-  <img src="https://github.com/Ivichec/Ivichec/assets/124150320/327d3318-1ea1-4517-a3dc-c0bed2a5c55e" alt="Card header" width="600" height="240"/>
 </div>
 
 <p align="center">
